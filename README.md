@@ -119,13 +119,13 @@ Point the domain name to public_html/public folder.
 git clone https://github.com/mailmug/laravel-easy-pos.git
 cd laravel-easy-pos
 
-```
-2. **Copy .env file**
+
+2. **Install dependencies:**
 
 ```shell
-cp .env.example .env
-php artisan key:generate
-
+composer install
+npm install
+npm run build
 ```
 
 3. **Update .env file**
@@ -139,12 +139,12 @@ APP_URL=http://localhost
 
 ```
 
-4. **Install dependencies:**
+4. **Copy .env file**
 
 ```shell
-composer install
-npm install
-npm run build
+cp .env.example .env
+php artisan key:generate
+
 ```
 
 5. **Run the application:**
