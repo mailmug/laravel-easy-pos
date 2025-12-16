@@ -118,7 +118,7 @@ Point the domain name to public_html/public folder.
 ```shell
 git clone https://github.com/mailmug/laravel-easy-pos.git
 cd laravel-easy-pos
-
+```
 
 2. **Install dependencies:**
 
