@@ -15,6 +15,13 @@ It is ready with Filament v4. Please check it and feel free to share your feedba
 - ✅ Sales tracking & reports
 - ✅ Responsive UI
 
+## Direct Thermal Printing Feature
+Direct Print Options
+- 🖨 Windows Desktop printing (Bluetooth/USB/Wifi)
+- 📱 Android printing (Bluetooth/USB/Wifi)
+
+Feel free to PM info@mailmug.net
+
 <br>
 <br>
 
@@ -47,6 +54,7 @@ Need a custom invoice template? We can design one for an additional price!
 
 - **Installation & Setup** – $29
 - **Custom Invoice Template** – Additional cost (contact us for pricing)
+- **ESC/POS Thermal Print** option (Android/Windows)
 - Configuration assistance & basic troubleshooting
 
 * 📩 Contact Us:
