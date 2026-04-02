@@ -15,14 +15,37 @@ It is ready with Filament v4. Please check it and feel free to share your feedba
 - ✅ Sales tracking & reports
 - ✅ Responsive UI
 
-## Direct Thermal Printing Feature
-Direct Print Options
-- 🖨 Windows Desktop printing (Bluetooth/USB/Wifi)
-- 📱 Android printing (Bluetooth/USB/Wifi)
+## 🧾 Direct Thermal Printing Feature
 
-Feel free to PM info@mailmug.net
+### 🖨️ Direct Print Options
 
-<br>
+- 🖨️ **Windows Desktop printing** (Bluetooth / USB / WiFi)
+- 📱 **Android printing** (Bluetooth / USB / WiFi)
+
+## 📲 Download Thermal Print Bridge (Android)
+
+Turn your phone into a **powerful POS printer bridge** in seconds.  
+✅ Supports Bluetooth, USB, and WiFi printers  
+⚡ Fast & reliable ESC/POS printing  
+🔌 Works with most POS systems  
+
+---
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.phpbolt.posbridge&pli=1">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="260"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>✔ Free to try • ⚡ Setup in minutes • 🔒 No login required</b>
+</p>
+
+---
+
+📩 **Need help or have questions?**  
+Feel free to contact: **info@mailmug.net**
+
 <br>
 
 ## 🚀 Demo Available:
