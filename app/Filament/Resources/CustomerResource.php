@@ -52,6 +52,11 @@ class CustomerResource extends Resource
                     ->nullable(),
                 FileUpload::make('avatar')
                     ->image()
+                    ->acceptedFileTypes([
+                        'image/jpeg',
+                        'image/png',
+                        'image/webp',
+                    ])
                     ->visibility('public')
                     ->disk('public_uploads')
                     ->directory('avatars')

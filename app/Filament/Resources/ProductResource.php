@@ -62,6 +62,11 @@ class ProductResource extends Resource
                         ->numeric()
                         ->default(0.00),
                     FileUpload::make('image')
+                        ->acceptedFileTypes([
+                            'image/jpeg',
+                            'image/png',
+                            'image/webp',
+                        ])
                         ->disk('public_uploads') 
                         ->panelLayout('grid') 
                         ->visibility('public'),
